@@ -33,13 +33,7 @@ function pacote(){
 }
 
 function chve(){
-    const chave = prompt('Digite o neumero da chave')
-    if(chave == 'anachave2525'){
-        alert('Acesso permitido')
-    }
-    else{
-        alert('Acesso negado!')
-    }
+   alert('Este perfil trabalha somente com vendas de fotos')
 }
 
 function compraChave(){
